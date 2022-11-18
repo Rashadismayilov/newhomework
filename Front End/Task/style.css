@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0b5d74
+
+}
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+}
+.Logo img{
+    width: 200px;
+}
+.Navbar a{
+    color: #fff;
+    text-decoration: none;
+    height: 120px;
+    font-size: 20px;
+    padding: 52px 15px;
+    
+}
+.Icon{
+    color: #fff;
+}
+.Icon i{
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.Boxxs{
+    background-color: #fff;
+    width: 28%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    
+    
+}
+
+.Box-all h1{
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-size: 60px;
+    margin: 20px 0px;
+
+
+}
+
+.top img{
+    width: 100%;  
+    border-radius: 10px;
+}
+
+.button-top h1{
+    font-size: 18px;
+    color: #175564;
+    height: 25px;
+   
+
+}
+.Qiymet span {
+    background: #c4d33a;
+    border-radius: 5px;
+    color: #175564; 
+    font-size: 18px;
+    padding: 5px;
+   
+}
+.boxes{
+    margin: 0 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.button{
+    padding: 20px;
+}
+.button-top p{
+    margin-bottom: 10px;
+}
